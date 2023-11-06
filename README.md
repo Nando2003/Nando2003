@@ -7,7 +7,7 @@
 
 <div>
   <a href-"https://github.com/Nando2003">
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando2003&layout=compact&langs_count=16&theme=PowerShell"/>
 </div>
     
 <div style="display: inline_block"><br>
