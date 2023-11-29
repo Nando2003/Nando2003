@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning Django and Pandas
 
-- 📫 How to reach me: nandofontes30@gmail.com
+- 📫 How to reach me: nandofontes29@gmail.com
 - 😄 Pronouns: he/him
 
 <div>
