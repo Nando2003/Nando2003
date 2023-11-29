@@ -1,6 +1,6 @@
 ### Hi, my name is Fernando and I’m a Back-end developer 👋
 
-- 🌱 I'm currently learning Python for Back-end and Data science
+- 🌱 I'm currently learning Django and Pandas
 
 - 📫 How to reach me: nandofontes30@gmail.com
 - 😄 Pronouns: he/him
