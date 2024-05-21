@@ -5,7 +5,7 @@
 <h2 align="center">About me</h2>
 
 
-<p align="center">My name is Fernando Luiz and I'm 20! Currently, I'm in the 5th period of computer science.</p>
+<p align="center">My name is <strong>Fernando Luiz</strong>strong> and I'm 20! Currently, I'm in the 5th period of computer science.</p>
 
 <div align="center">
     <a href-"https://github.com/Nando2003">
