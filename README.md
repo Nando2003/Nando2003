@@ -12,6 +12,6 @@
 
 ### Interested Technologies
 
-Djando  |   Python  |    
-:------:| :------: | 
-[![Tecnologias Usadas](https://skillicons.dev/icons?i=django)](https://skillicons.dev) | [![Tecnologias Usadas](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |  
+Djando  |   Python  |   Java  |   PostgreSQL  |   MySQL  |  
+:------:| :------: | :------: | :------: | :------: | 
+[![Tecnologias Usadas](https://skillicons.dev/icons?i=django)](https://skillicons.dev) | [![Tecnologias Usadas](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![Tecnologias Usadas](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![Tecnologias Usadas](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev) |  [![Tecnologias Usadas](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | 
