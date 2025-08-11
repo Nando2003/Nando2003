@@ -5,7 +5,7 @@
 <h2 align="center">About me</h2>
 
 
-<p align="center">My name is <strong>Fernando Luiz</strong> and I'm 20! Currently, I'm in the 5th period of computer science.</p>
+<p align="center">My name is <strong>Fernando Luiz</strong> and I'm 20! Currently, I'm in the 7th period of computer science.</p>
 
 <div align="center">
     <a href-"https://github.com/Nando2003">
@@ -21,7 +21,9 @@
 <div align="center">
     <a href-"https://skillicons.dev">
     <img height="100em" src="https://skillicons.dev/icons?i=django"/>
+    <img height="100em" src="https://skillicons.dev/icons?i=fastapi"/>
     <img height="100em" src="https://skillicons.dev/icons?i=python"/>
+    <img height="100em" src="https://skillicons.dev/icons?i=typescript"/>
     <img height="100em" src="https://skillicons.dev/icons?i=java"/>
     <img height="100em" src="https://skillicons.dev/icons?i=postgresql"/>
     <img height="100em" src="https://skillicons.dev/icons?i=mysql"/>
