@@ -1,44 +1,52 @@
-<h1 align="center">Welcome to my Github 👋</h1>
+<div align="center">
+
+<h1>Welcome to my GitHub 🚀</h1>
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0;">
+    <img src="https://media1.tenor.com/m/-CuTnBw8bFIAAAAd/initial-d.gif" width="600" height="280">
+    <h3><em>"If it has four wheels and it runs, it’s a car"</em></h3>
+</div>
+
+---
+
+<h2>About Me ^_^</h2>
+
+<p>My name is <strong>Fernando Luiz</strong>, I'm 21 years old and currently in the 7th period of <strong>Computer Science</strong>.</p>
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando2003&layout=compact&langs_count=8&theme=powerShell"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nando2003&show_icons=true&theme=powerShell"/>
+</div>
+
+<h2>🛠 My Skills</h2>
+
+<table align="center" border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <th>Frameworks</th>
+    <th>Programming Languages</th>
+    <th>Databases</th>
+  </tr>
+  <tr>
+    <td align="center" style="border-right: 1px solid #ccc;">
+      <img height="75em" src="https://skillicons.dev/icons?i=django,adonis,laravel"/>
+    </td>
+    <td align="center" style="border-right: 1px solid #ccc;">
+      <img height="75em" src="https://skillicons.dev/icons?i=python,typescript,php"/>
+    </td>
+    <td align="center">
+      <img height="75em" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+    </td>
+  </tr>
+</table>
 
 <p>&nbsp;</p>
 
-<h2 align="center">About me</h2>
+---
 
-
-<p align="center">My name is <strong>Fernando Luiz</strong> and I'm 20! Currently, I'm in the 7th period of computer science.</p>
-
-<div align="center">
-    <a href-"https://github.com/Nando2003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando2003&layout=compact&langs_count=16&theme=PowerShell"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nando2003&show_icons=true&theme=radical&layout=compact&langs_count=16&theme=PowerShell"/>
-    </a>
-    
-</div>
 <p>&nbsp;</p>
 
-<h2 align="center">Main Technologies</h2>
+<img src="https://media1.tenor.com/m/gFRunmACf_UAAAAd/initial-d-itsuki-takeuchi.gif" width="600" height="300">
 
-<div align="center">
-    <a href-"https://skillicons.dev">
-    <img height="100em" src="https://skillicons.dev/icons?i=django"/>
-    <img height="100em" src="https://skillicons.dev/icons?i=fastapi"/>
-    <img height="100em" src="https://skillicons.dev/icons?i=python"/>
-    <img height="100em" src="https://skillicons.dev/icons?i=typescript"/>
-    <img height="100em" src="https://skillicons.dev/icons?i=java"/>
-    <img height="100em" src="https://skillicons.dev/icons?i=postgresql"/>
-    <img height="100em" src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
+<h4>💬 "Life’s all about racing your own race."</h4>
+
 </div>
-<p>&nbsp;</p>
-
-<div align="center">
-    <a href-"https://media.giphy.com">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkzd2hwbHJsZTQ5dHNsOWJvNHNmc2ZrODlyYmJ4OHJnYWkzMHVkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.gif"/>
-    <h5 align="center"><em>Nice to meet y'all</em></h5>
-    </a>
-</div>
-
-
-
-
-
