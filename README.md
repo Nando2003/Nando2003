@@ -7,7 +7,7 @@
     <h3><em>"If it has four wheels and it runs, it’s a car"</em></h3>
 </div>
 
----
+<p>&nbsp;</p>
 
 <h2>About Me ^_^</h2>
 
@@ -17,6 +17,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando2003&layout=compact&langs_count=8&theme=powerShell"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nando2003&show_icons=true&theme=powerShell"/>
 </div>
+
+<p>&nbsp;</p>
 
 <h2>🛠 My Skills</h2>
 
@@ -38,10 +40,6 @@
     </td>
   </tr>
 </table>
-
-<p>&nbsp;</p>
-
----
 
 <p>&nbsp;</p>
 
