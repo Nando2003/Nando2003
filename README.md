@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="center" style="border-right: 1px solid #ccc;">
-      <img height="75em" src="https://skillicons.dev/icons?i=django,adonis,laravel"/>
+      <img height="75em" src="https://skillicons.dev/icons?i=django,adonis,fastapi"/>
     </td>
     <td align="center" style="border-right: 1px solid #ccc;">
       <img height="75em" src="https://skillicons.dev/icons?i=python,typescript,php"/>
