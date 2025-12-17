@@ -11,7 +11,7 @@
 
 <h2>About Me ^_^</h2>
 
-<p>My name is <strong>Fernando Luiz</strong>, I'm 21 years old and currently in the 7th period of <strong>Computer Science</strong>.</p>
+<p>My name is <strong>Fernando Luiz</strong>, I'm 22 years old and currently in the 7th period of <strong>Computer Science</strong>.</p>
 
 <!-- <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando2003&layout=compact&langs_count=8&theme=powerShell"/>
